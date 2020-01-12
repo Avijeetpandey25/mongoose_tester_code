@@ -1,8 +1,5 @@
 const mongoose =require('mongoose');
 
-//connection url
-const url = 'mongodb://localhost:27017';
-
 mongoose.connect('mongodb://localhost:27017/fruitsDb',{useNewUrlParser:true});
 
 //create a new schema or blueprint for the database
