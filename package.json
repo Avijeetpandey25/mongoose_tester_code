@@ -1,0 +1,23 @@
+{
+  "name": "mongoose_tester_code",
+  "version": "1.0.0",
+  "description": "sample mongoose odm tester code",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mongoose_test_code"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose_driver",
+    "javascript"
+  ],
+  "author": "Avijeet Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.8.7"
+  }
+}
